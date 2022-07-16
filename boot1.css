@@ -1,4 +1,11 @@
+/* .jp{
+background-color: red;
+opacity: 100%;
+} */
 
+.gp{
+    /* margin-left: 200px; */
+}
 
 .ank:hover{
 
@@ -11,6 +18,22 @@
 
 
 }
+/* .bg12{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+} */
+
+.con123{
+    /* position: absolute; */
+    /* top: 100px; */
+    /* z-index: -12; */
+
+
+ 
+ /* width: 50%; */
+    /* margin: auto; */
+} 
 
 .yackshadow{
     text-shadow: 0px 0px 4px black;
@@ -99,12 +122,13 @@ transform: scale(0.95);
 }
 
 .form-check{
-  
+
     padding-bottom: 1rem ;
 }
 
 .dash{
     margin-top: 4rem;
 }
+
 
 
