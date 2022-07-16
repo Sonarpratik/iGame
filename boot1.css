@@ -1,0 +1,139 @@
+/* .jp{
+background-color: red;
+opacity: 100%;
+} */
+
+.gp{
+    /* margin-left: 200px; */
+}
+
+.ank:hover{
+
+    background-color: red;
+    border-radius: 0px 0px 20px 20px;
+    margin-top: -8px;
+    /* height: 20px; */
+    padding-top: 15px;
+    transition: all 1s ease-in-out ;
+
+
+}
+/* .bg12{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+} */
+
+.con123{
+    /* position: absolute; */
+    /* top: 100px; */
+    /* z-index: -12; */
+
+
+ 
+ /* width: 50%; */
+    /* margin: auto; */
+} 
+
+.yackshadow{
+    text-shadow: 0px 0px 4px black;
+    z-index: 69;
+    /* height: 100%; */
+}
+
+.like::before{
+    content: ' ';
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 40%;
+}
+
+.forthumb11{
+    box-shadow: 0px 2px 10px rgb(23, 31, 44)!important;
+}
+.forthumb12{
+    box-shadow: 0px 2px 10px rgb(67, 100, 152)!important;
+}
+.forthumb13{
+    box-shadow: 0px 2px 10px rgb(193, 202, 27)!important;
+}
+.forthumb14{
+    box-shadow: 0px 2px 10px rgb(163, 83, 83)!important;
+}
+.forthumb:hover{
+    transition: all 0.3s ease-in-out ;
+
+    transform: scale(1.03);
+}
+
+.mgl12{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.mgl12:hover{
+    transition: all 0.3s ease-in-out ;
+transform: scale(0.95);
+}
+
+#joy{
+    border-radius: 360px;
+}
+.border-top {
+    border-top: 0px solid #dee2e6!important;
+}
+
+.fix{
+    position: fixed;
+    top: 0px;
+    z-index: 76589;
+    width: 100%;
+}
+
+.like{
+    margin-top: 56px;
+}
+.like1{
+    
+    margin-top: 5rem;
+}
+.like2{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.gpbtn{
+   
+    /* float: right!important; */
+}
+
+.form-check-input{
+   /* margin-right: 70.5rem; */
+    float: none!important;
+    margin-left: 2rem!important;
+}
+
+.form-check{
+    padding-left: 0px;
+    padding-bottom: 1rem ;
+}
+
+.dash{
+    margin-top: 4rem;
+}
+
+.captain{
+    margin: 40px;
+    /* margin-left: ; */
+    /* margin-left: 10%;
+    margin-right: 10%; */
+}
+
